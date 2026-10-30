@@ -16,3 +16,5 @@ Kebakaran hutan dan lahan merupakan permasalahan lingkungan yang membutuhkan pem
 
 ## Solusi
 Mengembangkan model klasifikasi confidence level hotspot menggunakan algoritma machine learning berdasarkan karakteristik termal, seperti brightness, bright_t31, Fire Radiative Power (FRP), serta waktu kejadian. Model ini bertujuan mengelompokkan hotspot ke dalam kategori rendah (Low), sedang (Nominal), dan tinggi (High) untuk membantu proses penyaringan awal dan penentuan prioritas pemeriksaan. Dengan demikian, hasil klasifikasi diharapkan dapat memberikan informasi yang lebih terstruktur bagi petugas dan instansi terkait dalam mendukung kegiatan pemantauan serta pengambilan keputusan. Hasil prediksi tetap menjadi informasi pendukung dan tidak menggantikan verifikasi langsung di lapangan.
+
+## Link Dataset : https://firms.modaps.eosdis.nasa.gov/data/download/DL_FIRE_M-C61_824794.zip
